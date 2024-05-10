@@ -1,4 +1,5 @@
 #Tomasulo's Algorithm
+
 Tomasulo's Algorithm is a dynamic scheduling algorithm used in computer architecture to achieve parallelism in instruction execution. It's particularly popular in superscalar processors and is effective in executing instructions with dependencies by allowing them to execute out of order. This GitHub repository provides an implementation of Tomasulo's Algorithm in [language], demonstrating its functionality and potential applications in modern processor design.
 
 Features:
